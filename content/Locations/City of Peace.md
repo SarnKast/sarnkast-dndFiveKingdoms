@@ -4,4 +4,4 @@ draft: false
 tags:
   - 
 ---
-Self governed city-state on the [[Isle of Tranquility]].
+Self governed city-state on the [[Isle of Tranquility]], run by [[The Council]].

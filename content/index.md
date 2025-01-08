@@ -1,4 +1,4 @@
 ---
 title: Home
 ---
-Welcome, this is a work in progress, but will eventually be a wiki of sorts for my players in an upcoming D&D campaign.
+Welcome, if you are reading this you are either a player in my new D&D campaign, or have somehow otherwise stumbled upon this page. If it is the former, welcome to the game, peruse at your leisure and learn about this game's setting. If it's the latter, feel free to look anyway I guess. Start at the basics page, and from there go on to whatever interests you. More will be added as the players discover more, nothing on this site is meant to be a secret to the players, it is all either commonly known by everyone in the setting, or something a PC would have learned in their adventures prior to the start of the campaign. Please avoid looking at the github repo that this page is made from (which is public, but not linked here), as it is made up of my GM notes as well as the info here, along with other things that make this site work that are not relevant to the campaign.
