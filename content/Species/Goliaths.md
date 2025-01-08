@@ -4,5 +4,4 @@ draft: false
 tags:
   - 
 ---
-
 Part of [[The Tribes]].

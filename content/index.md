@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome, this is a work in progress, but will eventually be a wiki of sorts for my players in an upcoming D&D campaign.
