@@ -17,7 +17,7 @@ Prime Deities:
 - [[Pelor]], the Dawnfather
 - [[The Raven Queen]], the Matron of Ravens
 - [[Sarenrae]], the Everlight
-- [[Sahanine]], the Moonweaver
+- [[Sehanine]], the Moonweaver
 
 Betrayer Gods:
 - [[Asmodeus]], the Lord of the Nine Hells
@@ -26,6 +26,6 @@ Betrayer Gods:
 - [[Lolth]], the Spider Queen
 - [[Tharizdun]], the Chained Oblivion
 - [[Tiamat]], the Scaled Tyrant
-- [[Torog]], the Crawling King
+- [[Torag]], the Crawling King
 - [[Vecna]], the Whispered One
 - [[Zehir]], the Cloaked Serpent
