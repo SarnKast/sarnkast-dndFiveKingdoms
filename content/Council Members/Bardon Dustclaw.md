@@ -1,6 +1,6 @@
 ---
 title: Bardon Dustclaw
-draft: true
+draft: false
 tags:
 ---
 A member of [[The Council]] representing [[The Sentinels]]. Aasimar man.
